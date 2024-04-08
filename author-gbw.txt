@@ -20,18 +20,36 @@ v1.5.0
 
 [CONTENT]
 v1.5.1 优化性能，修bug
+[END]
 
+[CONTENT]
 v1.5.0 添加音频条,视觉识别demo
+[END]
 
+[CONTENT]
 v1.3.2 优化性能
+[END]
 
+[CONTENT]
 v1.3.0 添加后处理控制面板，性能优化
+[END]
 
+[CONTENT]
 v1.2.5 添加一些音频可视化的东西
+[END]
 
+[CONTENT]
 v1.2.0 增加新的后处理效果，修bug
+[END]
 
+[CONTENT]
 v1.1.5 地图投稿实验室啦~
+[END]
 
+[CONTENT]
 v1.1.0 增加新的后处理效果，修bug
+[END]
+
+[CONTENT]
+v1.0.0 地图发布
 [END]
